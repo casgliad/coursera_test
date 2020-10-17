@@ -42,7 +42,7 @@ h1 {
 }
 
 .content{
-  border: 5px solid black;
+  border: 2px solid black;
   width: 90%;
   height: auto;
   margin: 2.5%;
@@ -50,19 +50,19 @@ h1 {
   font-size: 25px;
   padding: 2%;
   padding-top: 55px;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(153,153,153,1);
 }
 
 .chicken{
-  background-color: #999999;
+  background-color: #d59899;
 }
 
 .beef{
   color: white;
-  background-color: #999999;
+  background-color: #c14543;
 }
 .sushi{
-  background-color: #999999;
+  background-color: #e5d198;
 }
 
 
