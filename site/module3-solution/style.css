@@ -95,3 +95,10 @@ li{
 #top{
 
 }
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+  color: #090b12;
+  font-size: 40px;
+}
