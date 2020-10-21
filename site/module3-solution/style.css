@@ -6,12 +6,14 @@
 
 .navbar{
   border-radius: 0px;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(153,153,153,1);
 }
 
 .navbar-brand{
-  font-size: 35px;
-  color: white;
+  font-size: 30px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  color: black;
   padding-left: 25px;
 }
 
@@ -32,20 +34,21 @@
 }
 
 .navbar-toggle{
-  border: 2px solid white;
+  border: 2px solid black;
   margin-right: 25px;
 }
 
 .icon-bar{
-  background-color: white;
+  background-color: black;
+  border: 2px solid black;
 }
 
 
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
-  font-size: 50px;
+  color: #000000;
+  font-size: 40px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
 }
@@ -94,11 +97,4 @@ li{
 
 #top{
 
-}
-
-h1 {
-  margin-bottom: 15px;
-  text-align: center;
-  color: #090b12;
-  font-size: 40px;
 }
